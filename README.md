@@ -12,3 +12,5 @@ v1.3 27-01-2026 The option to speed-up Police arrival is a bit more explicit. An
 v1.3a 27-01-2026 minor update, initialization of speed-up.
 
 v1.3b 31-01-2026 Removed sixth finger of Evelyn on Intro pic.
+
+v1.4  05-02-2026 can only accuse once now, and investigator death triggers last round message only once
