@@ -14,3 +14,5 @@ v1.3a 27-01-2026 minor update, initialization of speed-up.
 v1.3b 31-01-2026 Removed sixth finger of Evelyn on Intro pic.
 
 v1.4  05-02-2026 can only accuse once now, and investigator death triggers last round message only once
+
+v1.4a  10-03-2026 Added Polish Translation by Litas
